@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(to top right, #ff0000 1%,#33ccff 75%, #ff0000 100% );
+
+}
+.egg {
+  color: blue;
+  border: dotted;
+}
+.glass{
+  color: purple;
+  border: solid;
+}
+.spring{
+  color: red;
+  border: dotted;
+}
+.mission {
+  color: #ffaa00;
+}
+header {
+  color: #2e9251;
+  border: solid #5c0099;
+  text-align: center;
+  padding: 10px;
+  margin: 15px;
+}
+footer {
+  font-family: sans-serif;
+  font-size: 14px;
+  text-align: center;
+  padding: 25px;
+}
+nav {
+  text-align: center;
+}
+article {
+  padding: 25px;
+  text-align: center;
+}
+h2 {
+  color: #9900cc;
+}
+ul {
+  text-align: center;
+  padding: 25px;
+
+}
+.mission {
+  color: #000000;
+  text-align: center;
+}
+.accident {
+  text-align: center;
+}
