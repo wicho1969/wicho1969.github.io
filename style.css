@@ -1,0 +1,15 @@
+p{
+   color:blue;
+   }
+   body {
+    background-color: #ff8080;
+}
+          h1 {color:#b30000;
+            text-align:center;
+            border:solid;
+            }
+    h2 {color:green;}
+    footer {font-style: italic;
+      text-align: center;
+            }
+            nav li{display:inline-block;}
